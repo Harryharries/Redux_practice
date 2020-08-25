@@ -15,7 +15,7 @@ class TodoListUI extends Component {
             value = {this.props.inputValue}
             />
 
-            <Button 
+            <Button data-testid="button"
             type="primary"
             onClick={this.props.clickBtn}> add </Button>
             </div>
