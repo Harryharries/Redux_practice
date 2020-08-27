@@ -1,3 +1,7 @@
+"CI/CD aws code pipeline temporary closed because the monthly free tire limition is almost full
+
+CICD will be closed until Sep 1st"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
