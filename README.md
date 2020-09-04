@@ -1,3 +1,18 @@
+-----------Run with Docker:-------------
+if you want to use docker, please install it from https://docs.docker.com/get-docker/
+
+Create Docker image:
+### 'docker build . -t reactimage'
+
+Run Docker image:
+### 'docker run reactimage'
+
+Run Docker contenter:
+### 'docker exec -it {CONTAINER ID}' sh
+-> ### 'npm start'
+
+-------------CICD---------------
+
 "CI/CD aws code pipeline temporary closed because the monthly free tire limition is almost full
 
 CICD will be closed until Sep 1st"
